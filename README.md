@@ -18,7 +18,7 @@
     <img src="https://raw.githubusercontent.com/shakeenacampbell/Analytical_Projects/refs/heads/main/derek-finch-zkrPU_1AwdU-unsplash.jpg" width="400" title= "Cleaning Medical Data Using Python">
 </a>
 <a href="https://github.com/shakeenacampbell/Analytical_Projects/blob/main/D207_project.ipynb">
-    <img src="https://raw.githubusercontent.com/shakeenacampbell/Analytical_Projects/refs/heads/main/caroline-lm--m-4tYmtLlI-unsplash.jpg" width="400" title= "Medical Data Visualizationusing Python">
+    <img src="https://raw.githubusercontent.com/shakeenacampbell/Analytical_Projects/refs/heads/main/caroline-lm--m-4tYmtLlI-unsplash.jpg" width="400" title= "Medical Data Visualization using Python">
 </a>
 
 ## 🛠 Tools & Technologies  
